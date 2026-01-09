@@ -8,13 +8,13 @@
 
 ### 1. Ringkasan Performa (KPI Metrics)
 Memberikan ringkasan cepat mengenai total item, volume barang masuk/keluar, serta skor kesehatan perputaran stok secara real-time.
-![Ringkasan Metrik](image_28bcac.png)
+
 
 ### 2. Analisis Visual Lanjutan
 Terdapat visualisasi interaktif untuk melihat prioritas pembelian dan distribusi stok berdasarkan kategori:
 * **Top 10 Barang Prioritas:** Mengurutkan item yang paling mendesak untuk dibeli kembali berdasarkan analisis keluar-masuk barang.
 * **Box Plot Distribusi:** Melihat persebaran sisa stok di setiap kategori untuk mendeteksi penumpukan barang (*overstock*).
-![Visualisasi Lanjutan](image_28bcac.png)
+
 
 ### 3. Peta Distribusi Stok (Scatter Plot)
 Memetakan hubungan antara **Barang Masuk** dan **Barang Keluar**. Ukuran titik mewakili besarnya rencana pembelian yang disarankan oleh sistem.
@@ -26,7 +26,7 @@ Sistem secara otomatis mengelompokkan barang ke dalam 3 kategori strategis mengg
 * 🔴 **C1 - Barang Cepat Habis:** Memerlukan restock segera karena perputarannya sangat cepat.
 * 🟡 **C2 - Barang Kebutuhan Normal:** Perputaran stabil, pembelian dilakukan sesuai kebutuhan operasional.
 * 🟢 **C3 - Barang Jarang Terpakai:** Risiko stok mati, disarankan untuk bundling atau promo.
-![Rencana Strategis](image_28c068.png)
+
 
 ---
 
